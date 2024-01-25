@@ -7,6 +7,7 @@ lon = int( input("Escribe la longitud:") )
 
 password = ""
 
+
 for i in range(lon):
     password += random.choice(elements)
 
