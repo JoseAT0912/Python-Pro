@@ -2,6 +2,7 @@ import random
 
 elements = "+-/*!&$#?=@abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 
+
 lon = int( input("Escribe la longitud:") )
 
 password = ""
